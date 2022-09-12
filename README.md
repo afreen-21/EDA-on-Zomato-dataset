@@ -1,2 +1,2 @@
 # EDA-on-Zomato-dataset
-I develop this project using python.
+I have done Exploratory Data Analysis on Zomato dataset in Python using Pandas, Numpy and matplotlib libraries.
